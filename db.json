@@ -9,12 +9,6 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
-    },
-    {
-      "dogName": "Oscar",
-      "dogBreed": "Whippet",
-      "submit": "Submit",
-      "id": 3
     }
   ],
   "cats": [
